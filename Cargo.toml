@@ -3,7 +3,7 @@ name = "salps-tool"
 version = "0.1.0"
 edition = "2021"
 
-description = "random string generator"
+description = "salps front end"
 
 author = "parchment"
 license = "MIT"
