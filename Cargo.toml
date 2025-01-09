@@ -11,4 +11,5 @@ readme = "readme.md"
 repository = "https://github.com/wainggan/salps-tool"
 
 [dependencies.salps]
+version = ">= 0.0.0"
 path = "lib"
